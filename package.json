@@ -1,0 +1,17 @@
+{
+  "name": "pdf-prueba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon js/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lamejs": "^1.2.1",
+    "nodemon": "^2.0.22",
+    "pdfjs-dist": "^3.7.107"
+  }
+}
